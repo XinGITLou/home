@@ -10,7 +10,7 @@
 >  </details>
 
 - [Class Calendar](./assets/calendar.png)
-- [Study Board](https://github.com/lab-brussels-1/home/projects/1)
+- [Study Board](https://github.com/orgs/HYF-Class21/projects/2)
 - People
   - [Learners](#learners) -
     [Randomizer](https://lab-brussels-1.github.io/home/randomizer)
@@ -36,7 +36,7 @@ Learn to plan and build web applications as a team.
 
 > [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"0.%20Precourse"+label%3Acheck-in)
 > |
-> [deliverables board]([https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"0.%20Precourse"+label%3Adeliverable](https://github.com/orgs/HYF-Class21/projects/2/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%2C%22Milestone%22%5D))
+> [deliverables board](https://github.com/orgs/HYF-Class21/projects/2/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%2C%22Milestone%22%5D)
 > |
 > [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"0.%20Precourse"+label%3Aretro+label%3Acheck-in)
 > || [milestone](https://github.com/lab-brussels-1/home/milestone/1)
