@@ -34,12 +34,12 @@ Learn to plan and build web applications as a team.
 
 ### [0. Precourse](https://github.com/hackyourfuturebelgium/precourse): 1 week
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"0.%20Precourse"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class21/home/issues?q=milestone%3A%220.+Precourse%22+label%3Acheck-in)
 > |
 > [deliverables board](https://github.com/orgs/HYF-Class21/projects/2/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%2C%22Milestone%22%5D)
 > |
 > [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"0.%20Precourse"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/1)
+> || [milestone](https://github.com/HYF-Class21/home/milestone/1)
 
 Set up your accounts and prepare your development environment.
 
