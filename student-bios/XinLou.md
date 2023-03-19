@@ -10,4 +10,4 @@ Here are stuffs i am learning to help me achieve my goals in the future
 You can find me at [GitHub](https://github.com/XinGITLou)
 
 My programmer goal:
-![Thankyousenpai](Thank%20you.jpg)
+![ThankyouSenpai](../assets/Thank-you.jpg)
